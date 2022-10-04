@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Peter 👋🏼
+- 💻 I'm interested in Mobile App Development📱, small mobile games development and UI Designing.
+- 🌱 I'm currently learning Kotlin Architecture Patterns.
+<!--- 💡 **My latest Projects** 👇🏼-->
+<!--1. [Doctor Point IOS App](https://github.com/micheal1hany/DoctorPoint) Doctors appointment IOS app (still under development)-->
+<!--2. [X O Game](https://github.com/micheal1hany/X-O-Android-Game) Android Game.-->
+<!--3. [Unscramble Game](https://github.com/micheal1hany/unscramble_game_app) Android Simple Game.-->
+- ✌🏼 I'm looking to collaborate on Android, UI designing, and small mobile games ideas
+- 🎷 My favorite hobbies is Gaming and reasearching
+- 📧 You can reach me out by [email](peterbassem44@gmail.com) or [LinkedIn](https://www.linkedin.com/in/peter1bassem/)
 
-<!--
-**Peter1Bassem/Peter1Bassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📢 Don't hesitate to ask me anything
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😉 Go and check out my repos also visit my profile on LinkedIn

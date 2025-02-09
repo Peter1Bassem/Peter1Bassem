@@ -7,7 +7,6 @@ I'm a passionate **Mobile Developer** specializing in **Android (Java/Kotlin/Com
 - 🌱 **Currently Learning:** Kotlin Architecture Patterns
 - ✌🏼 **Looking to collaborate on:** Android, UI designing, and small mobile game ideas
 - 🎷 **Hobbies:** Gaming & Researching 🔍
-- 📧 **Reach Me At:** [Email](mailto:peterbassem44@gmail.com) | [LinkedIn](https://www.linkedin.com/in/peter1bassem/)
 
 📢 Don't hesitate to ask me anything!
 

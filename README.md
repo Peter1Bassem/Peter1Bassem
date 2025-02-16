@@ -36,9 +36,10 @@ I'm a passionate **Mobile Developer** specializing in **Android (Java/Kotlin/Com
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter1bassem&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peter1bassem&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peter1bassem&theme=tokyonight)
+![Peter's Top Langs](https://github-readme-stats-peter1bassem-projects.vercel.app/api/top-langs/?username=peter1bassem&layout=compact&theme=tokyonight)
+![Peter's GitHub Stats](https://github-readme-stats-peter1bassem-projects.vercel.app/api?username=peter1bassem&show_icons=true&theme=tokyonight)
+![Peter's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peter1bassem&theme=tokyonight)
+[![Peter's GitHub stats](https://github-readme-stats-peter1bassem-projects.vercel.app/api?username=peter1bassem)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

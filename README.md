@@ -6,7 +6,7 @@ I'm a passionate **Mobile Developer** specializing in **Android (Java/Kotlin/Com
 - 💻 **Interested in:** Mobile App Development 📱, UI Designing, and Game Development 🎮
 - 🌱 **Currently Learning:** Kotlin Architecture Patterns
 - ✌🏼 **Looking to collaborate on:** Android, UI designing, and small mobile game ideas
-- 🎷 **Hobbies:** Gaming & Researching 🔍
+- 🎧 **Hobbies:** Gaming & Researching 🔍
 
 📢 Don't hesitate to ask me anything!
 
@@ -36,9 +36,13 @@ I'm a passionate **Mobile Developer** specializing in **Android (Java/Kotlin/Com
 ---
 
 ### 📊 GitHub Stats
-![Peter's Top Langs](https://github-readme-stats-peter1bassem-projects.vercel.app/api/top-langs?username=peter1bassem&layout=compact&theme=tokyonight)
-![Peter's GitHub Stats](https://github-readme-stats-peter1bassem-projects.vercel.app/api?username=peter1bassem&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)
-[![Peter's GitHub Streak](https://github-readme-streak-stats-two-tawny-28.vercel.app?user=peter1bassem&theme=neon-palenight&border_radius=10)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats-peter1bassem-projects.vercel.app/api?username=peter1bassem&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight" alt="Peter's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats-two-tawny-28.vercel.app?user=peter1bassem&theme=neon-palenight&border_radius=10" alt="Peter's GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats-peter1bassem-projects.vercel.app/api/top-langs?username=peter1bassem&layout=compact&theme=tokyonight" alt="Peter's Top Langs"/>
+</p>
 
 ---
 

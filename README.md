@@ -37,9 +37,9 @@ I'm a passionate **Mobile Developer** specializing in **Android (Java/Kotlin/Com
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-peter1bassem-projects.vercel.app/api?username=peter1bassem&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight" alt="Peter's GitHub Stats"/>
-  <br/>
   <img src="https://github-readme-streak-stats-two-tawny-28.vercel.app?user=peter1bassem&theme=neon-palenight&border_radius=10" alt="Peter's GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats-peter1bassem-projects.vercel.app/api?username=peter1bassem&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight" alt="Peter's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats-peter1bassem-projects.vercel.app/api/top-langs?username=peter1bassem&layout=compact&theme=tokyonight" alt="Peter's Top Langs"/>
 </p>

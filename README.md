@@ -35,6 +35,10 @@ I'm a passionate **Mobile Developer** specializing in **Android (Java/Kotlin/Com
 ---
 
 ### 📊 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peter1bassem&label=Profile%20views&color=0e75b6&style=flat" alt="peter1bassem" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peter1bassem" alt="peter1bassem" /></a> </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats-two-tawny-28.vercel.app?user=peter1bassem&theme=neon-palenight&border_radius=10" alt="Peter's GitHub Streak"/>
   <br/>

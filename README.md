@@ -4,7 +4,7 @@ I'm a passionate **Mobile Developer** specializing in **Android (Java/Kotlin/Com
 
 ### 🚀 About Me
 - 💻 **Interested in:** Mobile App Development 📱, UI Designing, and Game Development 🎮
-- 🌱 **Currently Learning:** Kotlin Architecture Patterns
+- 🌱 **Currently Learning:** Architecture Patterns And KMP
 - ✌🏼 **Looking to collaborate on:** Android, UI designing, and small mobile game ideas
 - 🎧 **Hobbies:** Gaming & Researching 🔍
 
